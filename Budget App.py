@@ -89,7 +89,6 @@ class Category:
         percent_fix = (category_percent // .1) * .1
         return percent_fix
     
-
 # bar chart
 def create_spend_chart(categories):
     category_percents = []
@@ -123,16 +122,6 @@ def create_spend_chart(categories):
                 bar_chart += cat.category[i] + "  "
             except IndexError:
                 bar_chart += "   "
-
-
-
-
-
-    
-
-
-
-
 
     return bar_chart
 
