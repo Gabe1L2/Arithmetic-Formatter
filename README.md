@@ -16,6 +16,11 @@ This repository contains the projects I am working on as part of the **Scientifi
    - **Description**: This budget tracker keeps track of personal spending by categorizing transactions as expenses and income, and calculates balances for each category.
    - **Skills Covered**: Lists and dictionaries, data manipulation, financial calculations.
 
+4. **Polygon Area Calculator** - Completed on **2/18/25**  
+   - **Description**: A class-based program that models rectangles and squares, allowing for area, perimeter, and diagonal calculations, as well as shape visualization using ASCII art. It also determines how many times one shape can fit inside another.  
+   - **Skills Covered**: Object-Oriented Programming (OOP) with class inheritance, algorithmic problem-solving, Method overriding, and polymorphism
+
+
 ## Technologies Used
 - Python 3.x
 - Built-in Python libraries
