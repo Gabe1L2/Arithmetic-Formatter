@@ -1,6 +1,6 @@
 # Scientific Computing with Python - Projects
 
-This repository contains the projects I am working on as part of the **Scientific Computing with Python** certification from [freeCodeCamp.org](https://www.freecodecamp.org/). I will update this as I complete them
+This repository contains the projects I am worked on as part of the **Scientific Computing with Python** certification from [freeCodeCamp.org](https://www.freecodecamp.org/).
 
 ## Projects Overview
 
@@ -19,6 +19,10 @@ This repository contains the projects I am working on as part of the **Scientifi
 4. **Polygon Area Calculator** - Completed on **2/18/25**  
    - **Description**: A class-based program that models rectangles and squares, allowing for area, perimeter, and diagonal calculations, as well as shape visualization using ASCII art. It also determines how many times one shape can fit inside another.  
    - **Skills Covered**: Object-Oriented Programming (OOP) with class inheritance, algorithmic problem-solving, Method overriding, and polymorphism
+  
+5. **Probability Calculator** - Completed on **2/19/25**
+   - **Description**: This project involved simulating random draws from a hat containing different colored balls to estimate probabilities using Monte Carlo methods. The goal was to determine the likelihood of drawing a specified combination of balls over multiple trials.
+   - **Skills Covered**: Probability theory, Monte Carlo simulations, random sampling, object-oriented programming (OOP), and algorithm development.
 
 
 ## Technologies Used
