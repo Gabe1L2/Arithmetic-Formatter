@@ -1,6 +1,6 @@
 # Scientific Computing with Python - Projects
 
-This repository contains the projects I am worked on as part of the **Scientific Computing with Python** certification from [freeCodeCamp.org](https://www.freecodecamp.org/).
+This repository contains the projects I worked on as part of the **Scientific Computing with Python** certification from [freeCodeCamp.org](https://www.freecodecamp.org/). View my certification [here](https://www.freecodecamp.org/certification/gabelee12/scientific-computing-with-python-v7).
 
 ## Projects Overview
 
